@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "testproject-e5f6e": {
+      "hosting": {
+        "TestProject": [
+          "testproject-e5f6e"
+        ]
+      }
+    }
+  }
+}
